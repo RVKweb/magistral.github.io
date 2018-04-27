@@ -1,0 +1,2 @@
+# magistral.github.io
+MagistralGlavnaya
